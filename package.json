@@ -1,0 +1,11 @@
+{
+  "name": "brief",
+  "version": "1.0.0",
+  "description": "first test deploy nodejs to azure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "cweichsel",
+  "license": "ISC"
+}
